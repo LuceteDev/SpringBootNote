@@ -1,2 +1,2 @@
 # SpringBootNote
-Sprint Boot 공부 소스 모
+Sprint Boot 공부 소스 모음
